@@ -5,3 +5,5 @@ Adam was driver second, while Rich and Dipendra navigated.
 Dipendra was driver third, while Adam and Rich navigated.
 
 each driver was approx 1 hr.
+
+we had help from w3schools.com for CSS code
