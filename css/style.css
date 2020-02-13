@@ -1,4 +1,33 @@
-nav, #logo, #logo-text, li { 
-  display: inline;
+#logo, #logo-text { 
+  display: inline-block;
   border: 1px solid green;
- }
+}
+
+#social-media {
+  float: right;
+  padding: 20px;
+}
+
+header {
+  border-bottom: 7px solid gray;
+}
+
+#sub-head {
+  display: inline-block;
+}
+
+#print, #print-text {
+  display: inline;
+}
+
+#printing {
+  float: right;
+}
+
+#pizza-image {
+  margin-top: 25px;
+  /* margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px; */
+  width: 100%;
+}
