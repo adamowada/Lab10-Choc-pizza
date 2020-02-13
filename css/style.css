@@ -1,0 +1,4 @@
+nav, #logo, #logo-text, li { 
+  display: inline;
+  border: 1px solid green;
+ }
