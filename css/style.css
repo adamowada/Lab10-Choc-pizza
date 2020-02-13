@@ -1,4 +1,62 @@
-nav, #logo, #logo-text, li { 
-  display: inline;
+#logo, #logo-text { 
+  display: inline-block;
   border: 1px solid green;
- }
+}
+
+#social-media {
+  float: right;
+  padding: 20px;
+}
+
+header {
+  border-bottom: 7px solid gray;
+}
+
+#sub-head {
+  display: inline-block;
+}
+
+#print, #print-text {
+  display: inline;
+}
+
+#printing {
+  float: right;
+}
+
+#pizza-image {
+  margin-top: 25px;
+  /* margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px; */
+  width: 100%;
+}
+
+.recipe-text {
+  font-size: 20px;
+  text-indent: 2em;
+  margin: 20px;
+}
+
+#ingredients {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+} 
+
+html {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#recipe-list {
+  background-image: url("/images/list-bg.png");
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+footer {
+  border-top: 7px solid gray;
+}
