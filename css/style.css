@@ -31,3 +31,32 @@ header {
   padding: 0px; */
   width: 100%;
 }
+
+.recipe-text {
+  font-size: 20px;
+  text-indent: 2em;
+  margin: 20px;
+}
+
+#ingredients {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+} 
+
+html {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+#recipe-list {
+  background-image: url("/images/list-bg.png");
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+
+footer {
+  border-top: 7px solid gray;
+}
